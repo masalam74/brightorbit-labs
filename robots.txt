@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brightorbit-labs.vercel.app/sitemap.xml
+Sitemap: https://brightorbit-labs.pages.dev/sitemap.xml
